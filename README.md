@@ -1,10 +1,3 @@
-# MusicStreamWebApp
-Frontend Project
-
-Perfect. Let’s create a **README section** for your **Music Streaming App** that you can include in your project folder or GitHub repository.
-
-Here’s a clean and beginner-friendly version:
-
 ---
 
 # 🎵 Music Streaming App
