@@ -71,7 +71,8 @@ const songs = [
 
 ## 📸 Preview
 
-![Music App Screenshot](https://via.placeholder.com/800x400?text=Music+App+Preview)
+![image](https://github.com/user-attachments/assets/27044c92-8197-49fa-b6dd-31fc40061a89)
+
 
 ---
 
